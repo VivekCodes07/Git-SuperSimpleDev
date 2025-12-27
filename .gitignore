@@ -1,0 +1,8 @@
+# Windows
+desktop.ini
+Thumbs.db
+
+# Node / JS
+node_modules/
+dist/
+.env
